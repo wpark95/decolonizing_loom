@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+}
+
+/* @@@@@ Header Start @@@@@ */
+
+
+#logo {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+
+.navbar-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Main Logo */
+#main-logo {
+    max-width: 200px;
+}
+
+.navbar-tabs {
+    display: flex;
+    color: white;
+}
+
+.navbar-tabs-list {
+    display: flex;
+    list-style-type: none;
+}
+
+/* Header Links Color*/
+li {
+    color: white;
+    list-style-type: none;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+li :visited {
+    color: azure;
+}
+
+li :hover {
+    color: rgb(145, 123, 76);
+}
+
+li :active {
+    color: rgb(145, 123, 76);
+}
+
+
+/* @@@@@ Header End @@@@@ */
+
+
+
+
+
+/* @@@ Home Start @@@ */
+
+
+.body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Main Video  */
+#main-video {
+    max-width: 100%;
+}
+
+/* @@@ Home End @@@ */
