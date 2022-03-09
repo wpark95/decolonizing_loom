@@ -65,6 +65,10 @@ li :active {
     color: rgb(145, 123, 76);
 } */
 
+a {
+    text-decoration: none;
+}
+
 
 .header-link {
     color: rgb(145, 123, 76);

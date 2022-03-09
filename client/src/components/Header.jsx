@@ -31,7 +31,7 @@ const header = () => (
         </li>
         <li>
           <NavLink className="header-link" to="/museum">
-            VirtualMuseum
+            Virtual Museum
           </NavLink>
         </li>
         <li>

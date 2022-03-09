@@ -6,16 +6,18 @@ import {
 
 const contactUs = () => (
   <div className="body-container body-container-contact">
-    <h1>Contact Us Title Place Holder</h1>
+    <h1>Related Organizations</h1>
     <br></br><br></br>
-    <h3>UW Professors</h3>
-    <p>Tony? Holly?</p>
+    <h3>Burke Museum</h3>
+    <p>
+      <a href='https://www.burkemuseum.org/'>Burke Museum Website</a>
+    </p>
     <br></br><br></br>
-    <h3>Jackson School???</h3>
-    <p>Jackson School??????</p>
+    <h3>Jackson School</h3>
+    <p>Tony?? Holly??</p>
     <br></br><br></br>
     <h3>Website</h3>
-    <p>For questions about the website, contact me????</p>
+    <p>For technical issues and suggestions related to this website, please contact Will Park (wpark95@uw.edu) </p>
   </div>
 );
 
