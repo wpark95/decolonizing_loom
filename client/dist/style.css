@@ -78,7 +78,7 @@ a {
     font-weight: bold;
     text-decoration: none;
 }
-.header-link :visited {
+/* .header-link :visited {
     color: rgb(145, 123, 76);
 }
 
@@ -88,7 +88,7 @@ a {
 
 .header-link :active {
     color: rgb(51, 0, 111);
-}
+} */
 
 
 /* @@@@@ Header End @@@@@ */
@@ -108,7 +108,9 @@ a {
 
 /* Main Video  */
 #main-video {
-    max-width: 100%;
+    /* position: absolute; */
+    display: inline-flex;
+    width: 40%;
 }
 
 /* @@@ Home End @@@ */
