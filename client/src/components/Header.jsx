@@ -15,22 +15,27 @@ const header = () => (
     <nav>
       <ul className="navbar-tabs-list">
         <li>
-          <NavLink to="/">
+          <NavLink className="header-link" to="/">
             Home
           </NavLink>
         </li>
         <li>
-          <NavLink to="/nuclearColonialism">
+          <NavLink className="header-link" to="/history">
             Nuclear History
           </NavLink>
         </li>
         <li>
-          <NavLink to="/uw">
+          <NavLink className="header-link" to="/uw">
             University of Washington
           </NavLink>
         </li>
         <li>
-          <NavLink to="/contact">
+          <NavLink className="header-link" to="/museum">
+            VirtualMuseum
+          </NavLink>
+        </li>
+        <li>
+          <NavLink className="header-link" to="/contact">
             Contact Us
           </NavLink>
         </li>

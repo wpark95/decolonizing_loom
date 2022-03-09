@@ -1,7 +1,7 @@
 body {
-    background-color: black;
+    background-color: azure;
     font-family: Arial, Helvetica, sans-serif;
-    color: azure;
+    color: black;
 }
 
 /* @@@@@ Header Start @@@@@ */
@@ -46,7 +46,7 @@ body {
 }
 
 /* Header Links Color*/
-li {
+/* li {
     color: white;
     list-style-type: none;
     padding-right: 30px;
@@ -54,7 +54,7 @@ li {
 }
 
 li :visited {
-    color: azure;
+    color: rgb(145, 123, 76);
 }
 
 li :hover {
@@ -63,6 +63,27 @@ li :hover {
 
 li :active {
     color: rgb(145, 123, 76);
+} */
+
+
+.header-link {
+    color: rgb(145, 123, 76);
+    list-style-type: none;
+    padding-right: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.header-link :visited {
+    color: rgb(145, 123, 76);
+}
+
+.header-link :hover {
+    color: rgb(51, 0, 111);
+}
+
+.header-link :active {
+    color: rgb(51, 0, 111);
 }
 
 

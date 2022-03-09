@@ -14,7 +14,7 @@ const home = () => (
     <br></br><br></br>
     <h3>Since 1945, the United States alone has tested over 2,000 nuclear bombs.</h3>
     <h3>Nuclear weapons development and testing has devastated numerous communities since then.</h3>
-    <h3>Today, affected peoples and communities are still fighting for their rights</h3>
+    <h2>Today, affected peoples and communities are still fighting for their rights.</h2>
   </div>
 );
 
