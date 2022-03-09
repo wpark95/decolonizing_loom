@@ -30,6 +30,11 @@ const header = () => (
           </NavLink>
         </li>
         <li>
+          <NavLink className="header-link" to="/resistance">
+            Resistance
+          </NavLink>
+        </li>
+        <li>
           <NavLink className="header-link" to="/museum">
             Virtual Museum
           </NavLink>
