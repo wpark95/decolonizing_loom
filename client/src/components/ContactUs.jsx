@@ -14,7 +14,8 @@ const contactUs = () => (
     </p>
     <br></br><br></br>
     <h3>Jackson School</h3>
-    <p>Tony?? Holly??</p>
+    <p>Professor Tony Lucero</p>
+    <p>Professor Holly Barker</p>
     <br></br><br></br>
     <h3>Website</h3>
     <p>For technical issues and suggestions related to this website, please contact Will Park (wpark95@uw.edu) </p>
